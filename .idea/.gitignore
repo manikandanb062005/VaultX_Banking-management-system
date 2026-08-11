@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+#java/springboot
+backend/target/
+
+#Environment files
+.env
+.env.*
+!.env.example
+
+#IDE
+.idea/
+.vscode/
+
+#logs
+*.log
+
+#OS
+.DS_Store
